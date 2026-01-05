@@ -1,0 +1,24 @@
+{
+  "originHash" : "1c9612e96a2359bb3f6b9ff111cdabec7156b47dde66983caecbdc0676c3b2ee",
+  "pins" : [
+    {
+      "identity" : "finejson",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/omochi/FineJSON",
+      "state" : {
+        "revision" : "05101709243cb66d80c92e645210a3b80cf4e17f",
+        "version" : "1.14.0"
+      }
+    },
+    {
+      "identity" : "richjsonparser",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/omochi/RichJSONParser.git",
+      "state" : {
+        "revision" : "263e2ecfe88d0500fa99e4cbc8c948529d335534",
+        "version" : "3.0.0"
+      }
+    }
+  ],
+  "version" : 3
+}

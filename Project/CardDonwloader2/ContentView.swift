@@ -6,6 +6,7 @@
 //
 
 import SwiftUI
+import FineJSON
 
 struct ContentView: View {
     
@@ -30,6 +31,16 @@ struct ContentView: View {
                         fatalError(error.localizedDescription)
                     }
                 }
+            }
+            
+            Button("Export JSON") {
+                let cardRaws = CardStore.shared.cards.map { $0.convertToRaw() }
+                /// [Swiftのちょっと便利なJSONのencoderを作った #Swift - Qiita](https://qiita.com/omochimetaru/items/2bf0d8e9f0a0b61c293c#%E3%83%91%E3%83%BC%E3%82%B9%E3%82%A8%E3%83%A9%E3%83%BC%E3%81%8C%E4%BD%8D%E7%BD%AE%E6%83%85%E5%A0%B1%E3%82%92%E6%8C%81%E3%81%A3%E3%81%A6%E3%81%84%E3%82%8B)
+                let encoder = FineJSONEncoder()
+                guard let jsonValue = try? encoder.encode(cardRaws) else {
+                    fatalError("Failed to encode to JSON.")
+                }
+                try! jsonValue.write(to: URL(filePath: "/Users/ikeh/Programming/Swift/poke-holo-hosting/Project/CardDonwloader2/Card/cards_hikeuchi.json"))
             }
         }
         .padding()

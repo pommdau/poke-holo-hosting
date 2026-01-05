@@ -224,6 +224,61 @@ extension Card {
     }
 }
 
+// MARK: - Convert to CardRaw
+
+extension Card {
+    func convertToRaw() -> CardRaw {
+        
+        // https://pommdau.github.io/poke-holo-hosting/CardDownloader/pgo/11/11_foil.webp
+        let baseURL = URL(string: "https://pommdau.github.io/poke-holo-hosting/CardDownloader")!
+        let baseDirectory = baseURL
+            .appending(path: self.set)
+            .appending(path: self.number)
+        
+        let imagesSmall = baseDirectory
+            .appending(path: "\(self.number)_small")
+            .appendingPathExtension(self.images.small.pathExtension)
+        
+        let imagesLarge = baseDirectory
+            .appending(path: "\(self.number)_large")
+            .appendingPathExtension(self.images.large.pathExtension)
+        
+        let imagesFoil: URL?
+        if let foil = self.images.foilURL {
+            imagesFoil = baseDirectory
+               .appending(path: "\(self.number)_foil")
+               .appendingPathExtension(foil.pathExtension)
+        } else {
+            imagesFoil = nil
+        }        
+        let imagesMask: URL?
+        if let mask = self.images.maskURL {
+            imagesMask = baseDirectory
+               .appending(path: "\(self.number)_mask")
+               .appendingPathExtension(mask.pathExtension)
+        } else {
+            imagesMask = nil
+        }
+        let images: CardRaw.CardImages = .init(
+            small: imagesSmall,
+            large: imagesLarge,
+            foil: imagesFoil?.path(),
+            mask: imagesMask?.path()
+        )
+        return .init(
+            id: self.id,
+            set: self.set,
+            name: self.name,
+            supertype: self.supertype.rawValue,
+            subtypes: self.subtypes?.map { $0.rawValue },
+            types: self.types?.map { $0.rawValue },
+            number: self.number,
+            rarity: self.rarity?.rawValue,
+            images: images
+        )
+    }
+}
+
 // MARK: - Preview
 
 import SwiftUI

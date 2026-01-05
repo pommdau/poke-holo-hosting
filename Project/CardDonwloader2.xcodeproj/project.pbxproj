@@ -6,6 +6,10 @@
 	objectVersion = 77;
 	objects = {
 
+/* Begin PBXBuildFile section */
+		DA09B2172F0B5D1700493D8C /* FineJSON in Frameworks */ = {isa = PBXBuildFile; productRef = DA09B2162F0B5D1700493D8C /* FineJSON */; };
+/* End PBXBuildFile section */
+
 /* Begin PBXFileReference section */
 		DA09B1BC2F08103F00493D8C /* CardDonwloader2.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = CardDonwloader2.app; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
@@ -23,6 +27,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				DA09B2172F0B5D1700493D8C /* FineJSON in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -65,6 +70,7 @@
 			);
 			name = CardDonwloader2;
 			packageProductDependencies = (
+				DA09B2162F0B5D1700493D8C /* FineJSON */,
 			);
 			productName = CardDonwloader2;
 			productReference = DA09B1BC2F08103F00493D8C /* CardDonwloader2.app */;
@@ -94,6 +100,9 @@
 			);
 			mainGroup = DA09B1B32F08103F00493D8C;
 			minimizedProjectReferenceProxies = 1;
+			packageReferences = (
+				DA09B2152F0B5D1700493D8C /* XCRemoteSwiftPackageReference "FineJSON" */,
+			);
 			preferredProjectObjectVersion = 77;
 			productRefGroup = DA09B1BD2F08103F00493D8C /* Products */;
 			projectDirPath = "";
@@ -329,6 +338,25 @@
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
+
+/* Begin XCRemoteSwiftPackageReference section */
+		DA09B2152F0B5D1700493D8C /* XCRemoteSwiftPackageReference "FineJSON" */ = {
+			isa = XCRemoteSwiftPackageReference;
+			repositoryURL = "https://github.com/omochi/FineJSON";
+			requirement = {
+				kind = upToNextMajorVersion;
+				minimumVersion = 1.14.0;
+			};
+		};
+/* End XCRemoteSwiftPackageReference section */
+
+/* Begin XCSwiftPackageProductDependency section */
+		DA09B2162F0B5D1700493D8C /* FineJSON */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = DA09B2152F0B5D1700493D8C /* XCRemoteSwiftPackageReference "FineJSON" */;
+			productName = FineJSON;
+		};
+/* End XCSwiftPackageProductDependency section */
 	};
 	rootObject = DA09B1B42F08103F00493D8C /* Project object */;
 }
