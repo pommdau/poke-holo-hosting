@@ -22,8 +22,8 @@ struct CardRaw: Codable, Identifiable {
     let images: CardImages
     
     struct CardImages: Codable {
-        let small: URL
-        let large: URL
+        let small: String
+        let large: String
         // 一部の行だけに存在する追加フィールド（ローカル相対パス想定）
         let foil: String?
         let mask: String?

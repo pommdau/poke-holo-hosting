@@ -154,8 +154,8 @@ struct Card: Codable, Identifiable {
         self.rarity = raw.rarity.flatMap { CardRarity(rawValue: $0) }
 
         self.images = .init(
-            small: raw.images.small,
-            large: raw.images.large,
+            small: URL(string: raw.images.small)!,
+            large: URL(string: raw.images.large)!,
             foil: raw.images.foil,
             mask: raw.images.mask
         )
@@ -260,10 +260,10 @@ extension Card {
             imagesMask = nil
         }
         let images: CardRaw.CardImages = .init(
-            small: imagesSmall,
-            large: imagesLarge,
-            foil: imagesFoil?.path(),
-            mask: imagesMask?.path()
+            small: imagesSmall.absoluteString,
+            large: imagesLarge.absoluteString,
+            foil: imagesFoil?.absoluteString,
+            mask: imagesMask?.absoluteString
         )
         return .init(
             id: self.id,

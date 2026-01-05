@@ -13,12 +13,8 @@
     "number": "160",
     "rarity": "Rare Secret",
     "images": {
-      "small": {
-        "relative": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/swsh12pt5/160/160_small.png"
-      },
-      "large": {
-        "relative": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/swsh12pt5/160/160_large.png"
-      }
+      "small": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/swsh12pt5/160/160_small.png",
+      "large": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/swsh12pt5/160/160_large.png"
     }
   },
   {
@@ -35,12 +31,8 @@
     "number": "33",
     "rarity": "Common",
     "images": {
-      "small": {
-        "relative": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/sm10/33/33_small.png"
-      },
-      "large": {
-        "relative": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/sm10/33/33_large.png"
-      }
+      "small": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/sm10/33/33_small.png",
+      "large": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/sm10/33/33_large.png"
     }
   },
   {
@@ -57,12 +49,8 @@
     "number": "7",
     "rarity": "Common",
     "images": {
-      "small": {
-        "relative": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/sm115/7/7_small.png"
-      },
-      "large": {
-        "relative": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/sm115/7/7_large.png"
-      }
+      "small": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/sm115/7/7_small.png",
+      "large": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/sm115/7/7_large.png"
     }
   },
   {
@@ -79,12 +67,8 @@
     "number": "1",
     "rarity": "Common",
     "images": {
-      "small": {
-        "relative": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/sm35/1/1_small.png"
-      },
-      "large": {
-        "relative": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/sm35/1/1_large.png"
-      }
+      "small": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/sm35/1/1_small.png",
+      "large": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/sm35/1/1_large.png"
     }
   },
   {
@@ -101,14 +85,10 @@
     "number": "127",
     "rarity": "Common",
     "images": {
-      "small": {
-        "relative": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/swsh12/127/127_small.png"
-      },
-      "large": {
-        "relative": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/swsh12/127/127_large.png"
-      },
-      "foil": "/poke-holo-hosting/CardDownloader/swsh12/127/127_foil.webp",
-      "mask": "/poke-holo-hosting/CardDownloader/swsh12/127/127_mask.webp"
+      "small": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/swsh12/127/127_small.png",
+      "large": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/swsh12/127/127_large.png",
+      "foil": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/swsh12/127/127_foil.webp",
+      "mask": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/swsh12/127/127_mask.webp"
     }
   },
   {
@@ -125,14 +105,10 @@
     "number": "85",
     "rarity": "Uncommon",
     "images": {
-      "small": {
-        "relative": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/swsh12/85/85_small.png"
-      },
-      "large": {
-        "relative": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/swsh12/85/85_large.png"
-      },
-      "foil": "/poke-holo-hosting/CardDownloader/swsh12/85/85_foil.webp",
-      "mask": "/poke-holo-hosting/CardDownloader/swsh12/85/85_mask.webp"
+      "small": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/swsh12/85/85_small.png",
+      "large": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/swsh12/85/85_large.png",
+      "foil": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/swsh12/85/85_foil.webp",
+      "mask": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/swsh12/85/85_mask.webp"
     }
   },
   {
@@ -149,14 +125,10 @@
     "number": "116",
     "rarity": "Uncommon",
     "images": {
-      "small": {
-        "relative": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/swsh12/116/116_small.png"
-      },
-      "large": {
-        "relative": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/swsh12/116/116_large.png"
-      },
-      "foil": "/poke-holo-hosting/CardDownloader/swsh12/116/116_foil.webp",
-      "mask": "/poke-holo-hosting/CardDownloader/swsh12/116/116_mask.webp"
+      "small": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/swsh12/116/116_small.png",
+      "large": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/swsh12/116/116_large.png",
+      "foil": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/swsh12/116/116_foil.webp",
+      "mask": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/swsh12/116/116_mask.webp"
     }
   },
   {
@@ -173,14 +145,10 @@
     "number": "24",
     "rarity": "Rare Holo",
     "images": {
-      "small": {
-        "relative": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/pgo/24/24_small.png"
-      },
-      "large": {
-        "relative": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/pgo/24/24_large.png"
-      },
-      "foil": "/poke-holo-hosting/CardDownloader/pgo/24/24_foil.webp",
-      "mask": "/poke-holo-hosting/CardDownloader/pgo/24/24_mask.webp"
+      "small": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/pgo/24/24_small.png",
+      "large": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/pgo/24/24_large.png",
+      "foil": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/pgo/24/24_foil.webp",
+      "mask": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/pgo/24/24_mask.webp"
     }
   },
   {
@@ -197,14 +165,10 @@
     "number": "29",
     "rarity": "Rare Holo",
     "images": {
-      "small": {
-        "relative": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/pgo/29/29_small.png"
-      },
-      "large": {
-        "relative": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/pgo/29/29_large.png"
-      },
-      "foil": "/poke-holo-hosting/CardDownloader/pgo/29/29_foil.webp",
-      "mask": "/poke-holo-hosting/CardDownloader/pgo/29/29_mask.webp"
+      "small": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/pgo/29/29_small.png",
+      "large": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/pgo/29/29_large.png",
+      "foil": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/pgo/29/29_foil.webp",
+      "mask": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/pgo/29/29_mask.webp"
     }
   },
   {
@@ -221,14 +185,10 @@
     "number": "12",
     "rarity": "Rare Holo",
     "images": {
-      "small": {
-        "relative": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/pgo/12/12_small.png"
-      },
-      "large": {
-        "relative": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/pgo/12/12_large.png"
-      },
-      "foil": "/poke-holo-hosting/CardDownloader/pgo/12/12_foil.webp",
-      "mask": "/poke-holo-hosting/CardDownloader/pgo/12/12_mask.webp"
+      "small": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/pgo/12/12_small.png",
+      "large": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/pgo/12/12_large.png",
+      "foil": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/pgo/12/12_foil.webp",
+      "mask": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/pgo/12/12_mask.webp"
     }
   },
   {
@@ -245,14 +205,10 @@
     "number": "85",
     "rarity": "Rare Holo",
     "images": {
-      "small": {
-        "relative": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/swsh1/85/85_small.png"
-      },
-      "large": {
-        "relative": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/swsh1/85/85_large.png"
-      },
-      "foil": "/poke-holo-hosting/CardDownloader/swsh1/85/85_foil.webp",
-      "mask": "/poke-holo-hosting/CardDownloader/swsh1/85/85_mask.webp"
+      "small": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/swsh1/85/85_small.png",
+      "large": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/swsh1/85/85_large.png",
+      "foil": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/swsh1/85/85_foil.webp",
+      "mask": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/swsh1/85/85_mask.webp"
     }
   },
   {
@@ -266,14 +222,10 @@
     "number": "132",
     "rarity": "Rare Holo",
     "images": {
-      "small": {
-        "relative": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/swsh9/132/132_small.png"
-      },
-      "large": {
-        "relative": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/swsh9/132/132_large.png"
-      },
-      "foil": "/poke-holo-hosting/CardDownloader/swsh9/132/132_foil.webp",
-      "mask": "/poke-holo-hosting/CardDownloader/swsh9/132/132_mask.webp"
+      "small": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/swsh9/132/132_small.png",
+      "large": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/swsh9/132/132_large.png",
+      "foil": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/swsh9/132/132_foil.webp",
+      "mask": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/swsh9/132/132_mask.webp"
     }
   },
   {
@@ -290,14 +242,10 @@
     "number": "43",
     "rarity": "Rare Holo",
     "images": {
-      "small": {
-        "relative": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/pgo/43/43_small.png"
-      },
-      "large": {
-        "relative": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/pgo/43/43_large.png"
-      },
-      "foil": "/poke-holo-hosting/CardDownloader/pgo/43/43_foil.webp",
-      "mask": "/poke-holo-hosting/CardDownloader/pgo/43/43_mask.webp"
+      "small": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/pgo/43/43_small.png",
+      "large": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/pgo/43/43_large.png",
+      "foil": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/pgo/43/43_foil.webp",
+      "mask": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/pgo/43/43_mask.webp"
     }
   },
   {
@@ -314,14 +262,10 @@
     "number": "SWSH012",
     "rarity": "Rare Holo Cosmos",
     "images": {
-      "small": {
-        "relative": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/swshp/SWSH012/SWSH012_small.png"
-      },
-      "large": {
-        "relative": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/swshp/SWSH012/SWSH012_large.png"
-      },
-      "foil": "/poke-holo-hosting/CardDownloader/swshp/SWSH012/SWSH012_foil.webp",
-      "mask": "/poke-holo-hosting/CardDownloader/swshp/SWSH012/SWSH012_mask.webp"
+      "small": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/swshp/SWSH012/SWSH012_small.png",
+      "large": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/swshp/SWSH012/SWSH012_large.png",
+      "foil": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/swshp/SWSH012/SWSH012_foil.webp",
+      "mask": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/swshp/SWSH012/SWSH012_mask.webp"
     }
   },
   {
@@ -335,14 +279,10 @@
     "number": "60",
     "rarity": "Rare Holo Cosmos",
     "images": {
-      "small": {
-        "relative": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/swsh45/60/60_small.png"
-      },
-      "large": {
-        "relative": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/swsh45/60/60_large.png"
-      },
-      "foil": "/poke-holo-hosting/CardDownloader/swsh45/60/60_foil.webp",
-      "mask": "/poke-holo-hosting/CardDownloader/swsh45/60/60_mask.webp"
+      "small": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/swsh45/60/60_small.png",
+      "large": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/swsh45/60/60_large.png",
+      "foil": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/swsh45/60/60_foil.webp",
+      "mask": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/swsh45/60/60_mask.webp"
     }
   },
   {
@@ -359,14 +299,10 @@
     "number": "SWSH127",
     "rarity": "Rare Holo Cosmos",
     "images": {
-      "small": {
-        "relative": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/swshp/SWSH127/SWSH127_small.png"
-      },
-      "large": {
-        "relative": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/swshp/SWSH127/SWSH127_large.png"
-      },
-      "foil": "/poke-holo-hosting/CardDownloader/swshp/SWSH127/SWSH127_foil.webp",
-      "mask": "/poke-holo-hosting/CardDownloader/swshp/SWSH127/SWSH127_mask.webp"
+      "small": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/swshp/SWSH127/SWSH127_small.png",
+      "large": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/swshp/SWSH127/SWSH127_large.png",
+      "foil": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/swshp/SWSH127/SWSH127_foil.webp",
+      "mask": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/swshp/SWSH127/SWSH127_mask.webp"
     }
   },
   {
@@ -384,14 +320,10 @@
     "number": "11",
     "rarity": "Radiant Rare",
     "images": {
-      "small": {
-        "relative": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/pgo/11/11_small.png"
-      },
-      "large": {
-        "relative": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/pgo/11/11_large.png"
-      },
-      "foil": "/poke-holo-hosting/CardDownloader/pgo/11/11_foil.webp",
-      "mask": "/poke-holo-hosting/CardDownloader/pgo/11/11_mask.webp"
+      "small": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/pgo/11/11_small.png",
+      "large": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/pgo/11/11_large.png",
+      "foil": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/pgo/11/11_foil.webp",
+      "mask": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/pgo/11/11_mask.webp"
     }
   },
   {
@@ -409,14 +341,10 @@
     "number": "59",
     "rarity": "Radiant Rare",
     "images": {
-      "small": {
-        "relative": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/swsh12/59/59_small.png"
-      },
-      "large": {
-        "relative": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/swsh12/59/59_large.png"
-      },
-      "foil": "/poke-holo-hosting/CardDownloader/swsh12/59/59_foil.webp",
-      "mask": "/poke-holo-hosting/CardDownloader/swsh12/59/59_mask.webp"
+      "small": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/swsh12/59/59_small.png",
+      "large": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/swsh12/59/59_large.png",
+      "foil": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/swsh12/59/59_foil.webp",
+      "mask": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/swsh12/59/59_mask.webp"
     }
   },
   {
@@ -434,14 +362,10 @@
     "number": "120",
     "rarity": "Radiant Rare",
     "images": {
-      "small": {
-        "relative": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/swsh12/120/120_small.png"
-      },
-      "large": {
-        "relative": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/swsh12/120/120_large.png"
-      },
-      "foil": "/poke-holo-hosting/CardDownloader/swsh12/120/120_foil.webp",
-      "mask": "/poke-holo-hosting/CardDownloader/swsh12/120/120_mask.webp"
+      "small": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/swsh12/120/120_small.png",
+      "large": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/swsh12/120/120_large.png",
+      "foil": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/swsh12/120/120_foil.webp",
+      "mask": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/swsh12/120/120_mask.webp"
     }
   },
   {
@@ -457,14 +381,10 @@
     ],
     "number": "TG03",
     "images": {
-      "small": {
-        "relative": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/swsh11tg/TG03/TG03_small.png"
-      },
-      "large": {
-        "relative": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/swsh11tg/TG03/TG03_large.png"
-      },
-      "foil": "/poke-holo-hosting/CardDownloader/swsh11tg/TG03/TG03_foil.webp",
-      "mask": "/poke-holo-hosting/CardDownloader/swsh11tg/TG03/TG03_mask.webp"
+      "small": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/swsh11tg/TG03/TG03_small.png",
+      "large": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/swsh11tg/TG03/TG03_large.png",
+      "foil": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/swsh11tg/TG03/TG03_foil.webp",
+      "mask": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/swsh11tg/TG03/TG03_mask.webp"
     }
   },
   {
@@ -480,14 +400,10 @@
     ],
     "number": "TG05",
     "images": {
-      "small": {
-        "relative": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/swsh11tg/TG05/TG05_small.png"
-      },
-      "large": {
-        "relative": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/swsh11tg/TG05/TG05_large.png"
-      },
-      "foil": "/poke-holo-hosting/CardDownloader/swsh11tg/TG05/TG05_foil.webp",
-      "mask": "/poke-holo-hosting/CardDownloader/swsh11tg/TG05/TG05_mask.webp"
+      "small": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/swsh11tg/TG05/TG05_small.png",
+      "large": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/swsh11tg/TG05/TG05_large.png",
+      "foil": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/swsh11tg/TG05/TG05_foil.webp",
+      "mask": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/swsh11tg/TG05/TG05_mask.webp"
     }
   },
   {
@@ -504,14 +420,10 @@
     "number": "TG02",
     "rarity": "Trainer Gallery Rare Holo",
     "images": {
-      "small": {
-        "relative": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/swsh12tg/TG02/TG02_small.png"
-      },
-      "large": {
-        "relative": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/swsh12tg/TG02/TG02_large.png"
-      },
-      "foil": "/poke-holo-hosting/CardDownloader/swsh12tg/TG02/TG02_foil.webp",
-      "mask": "/poke-holo-hosting/CardDownloader/swsh12tg/TG02/TG02_mask.webp"
+      "small": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/swsh12tg/TG02/TG02_small.png",
+      "large": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/swsh12tg/TG02/TG02_large.png",
+      "foil": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/swsh12tg/TG02/TG02_foil.webp",
+      "mask": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/swsh12tg/TG02/TG02_mask.webp"
     }
   },
   {
@@ -530,14 +442,10 @@
     "number": "110",
     "rarity": "Rare Holo V",
     "images": {
-      "small": {
-        "relative": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/swsh7/110/110_small.png"
-      },
-      "large": {
-        "relative": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/swsh7/110/110_large.png"
-      },
-      "foil": "/poke-holo-hosting/CardDownloader/swsh7/110/110_foil.webp",
-      "mask": "/poke-holo-hosting/CardDownloader/swsh7/110/110_mask.webp"
+      "small": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/swsh7/110/110_small.png",
+      "large": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/swsh7/110/110_large.png",
+      "foil": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/swsh7/110/110_foil.webp",
+      "mask": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/swsh7/110/110_mask.webp"
     }
   },
   {
@@ -555,14 +463,10 @@
     "number": "138",
     "rarity": "Rare Holo V",
     "images": {
-      "small": {
-        "relative": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/swsh12/138/138_small.png"
-      },
-      "large": {
-        "relative": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/swsh12/138/138_large.png"
-      },
-      "foil": "/poke-holo-hosting/CardDownloader/swsh12/138/138_foil.webp",
-      "mask": "/poke-holo-hosting/CardDownloader/swsh12/138/138_mask.webp"
+      "small": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/swsh12/138/138_small.png",
+      "large": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/swsh12/138/138_large.png",
+      "foil": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/swsh12/138/138_foil.webp",
+      "mask": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/swsh12/138/138_mask.webp"
     }
   },
   {
@@ -580,14 +484,10 @@
     "number": "49",
     "rarity": "Rare Holo V",
     "images": {
-      "small": {
-        "relative": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/pgo/49/49_small.png"
-      },
-      "large": {
-        "relative": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/pgo/49/49_large.png"
-      },
-      "foil": "/poke-holo-hosting/CardDownloader/pgo/49/49_foil.webp",
-      "mask": "/poke-holo-hosting/CardDownloader/pgo/49/49_mask.webp"
+      "small": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/pgo/49/49_small.png",
+      "large": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/pgo/49/49_large.png",
+      "foil": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/pgo/49/49_foil.webp",
+      "mask": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/pgo/49/49_mask.webp"
     }
   },
   {
@@ -606,14 +506,10 @@
     "number": "250",
     "rarity": "Rare Ultra",
     "images": {
-      "small": {
-        "relative": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/swsh8/250/250_small.png"
-      },
-      "large": {
-        "relative": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/swsh8/250/250_large.png"
-      },
-      "foil": "/poke-holo-hosting/CardDownloader/swsh8/250/250_foil.webp",
-      "mask": "/poke-holo-hosting/CardDownloader/swsh8/250/250_mask.webp"
+      "small": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/swsh8/250/250_small.png",
+      "large": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/swsh8/250/250_large.png",
+      "foil": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/swsh8/250/250_foil.webp",
+      "mask": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/swsh8/250/250_mask.webp"
     }
   },
   {
@@ -631,14 +527,10 @@
     "number": "183",
     "rarity": "Rare Ultra",
     "images": {
-      "small": {
-        "relative": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/swsh3/183/183_small.png"
-      },
-      "large": {
-        "relative": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/swsh3/183/183_large.png"
-      },
-      "foil": "/poke-holo-hosting/CardDownloader/swsh3/183/183_foil.webp",
-      "mask": "/poke-holo-hosting/CardDownloader/swsh3/183/183_mask.webp"
+      "small": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/swsh3/183/183_small.png",
+      "large": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/swsh3/183/183_large.png",
+      "foil": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/swsh3/183/183_foil.webp",
+      "mask": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/swsh3/183/183_mask.webp"
     }
   },
   {
@@ -656,14 +548,10 @@
     "number": "176",
     "rarity": "Rare Ultra",
     "images": {
-      "small": {
-        "relative": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/swsh12/176/176_small.png"
-      },
-      "large": {
-        "relative": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/swsh12/176/176_large.png"
-      },
-      "foil": "/poke-holo-hosting/CardDownloader/swsh12/176/176_foil.webp",
-      "mask": "/poke-holo-hosting/CardDownloader/swsh12/176/176_mask.webp"
+      "small": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/swsh12/176/176_small.png",
+      "large": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/swsh12/176/176_large.png",
+      "foil": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/swsh12/176/176_foil.webp",
+      "mask": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/swsh12/176/176_mask.webp"
     }
   },
   {
@@ -682,14 +570,10 @@
     "number": "SWSH179",
     "rarity": "Rare Ultra",
     "images": {
-      "small": {
-        "relative": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/swshp/SWSH179/SWSH179_small.png"
-      },
-      "large": {
-        "relative": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/swshp/SWSH179/SWSH179_large.png"
-      },
-      "foil": "/poke-holo-hosting/CardDownloader/swshp/SWSH179/SWSH179_foil.webp",
-      "mask": "/poke-holo-hosting/CardDownloader/swshp/SWSH179/SWSH179_mask.webp"
+      "small": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/swshp/SWSH179/SWSH179_small.png",
+      "large": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/swshp/SWSH179/SWSH179_large.png",
+      "foil": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/swshp/SWSH179/SWSH179_foil.webp",
+      "mask": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/swshp/SWSH179/SWSH179_mask.webp"
     }
   },
   {
@@ -708,14 +592,10 @@
     "number": "SWSH181",
     "rarity": "Rare Ultra",
     "images": {
-      "small": {
-        "relative": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/swshp/SWSH181/SWSH181_small.png"
-      },
-      "large": {
-        "relative": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/swshp/SWSH181/SWSH181_large.png"
-      },
-      "foil": "/poke-holo-hosting/CardDownloader/swshp/SWSH181/SWSH181_foil.webp",
-      "mask": "/poke-holo-hosting/CardDownloader/swshp/SWSH181/SWSH181_mask.webp"
+      "small": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/swshp/SWSH181/SWSH181_small.png",
+      "large": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/swshp/SWSH181/SWSH181_large.png",
+      "foil": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/swshp/SWSH181/SWSH181_foil.webp",
+      "mask": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/swshp/SWSH181/SWSH181_mask.webp"
     }
   },
   {
@@ -733,14 +613,10 @@
     "number": "SWSH183",
     "rarity": "Rare Ultra",
     "images": {
-      "small": {
-        "relative": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/swshp/SWSH183/SWSH183_small.png"
-      },
-      "large": {
-        "relative": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/swshp/SWSH183/SWSH183_large.png"
-      },
-      "foil": "/poke-holo-hosting/CardDownloader/swshp/SWSH183/SWSH183_foil.webp",
-      "mask": "/poke-holo-hosting/CardDownloader/swshp/SWSH183/SWSH183_mask.webp"
+      "small": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/swshp/SWSH183/SWSH183_small.png",
+      "large": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/swshp/SWSH183/SWSH183_large.png",
+      "foil": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/swshp/SWSH183/SWSH183_foil.webp",
+      "mask": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/swshp/SWSH183/SWSH183_mask.webp"
     }
   },
   {
@@ -758,14 +634,10 @@
     "number": "245",
     "rarity": "Rare Ultra",
     "images": {
-      "small": {
-        "relative": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/swsh8/245/245_small.png"
-      },
-      "large": {
-        "relative": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/swsh8/245/245_large.png"
-      },
-      "foil": "/poke-holo-hosting/CardDownloader/swsh8/245/245_foil.webp",
-      "mask": "/poke-holo-hosting/CardDownloader/swsh8/245/245_mask.webp"
+      "small": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/swsh8/245/245_small.png",
+      "large": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/swsh8/245/245_large.png",
+      "foil": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/swsh8/245/245_foil.webp",
+      "mask": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/swsh8/245/245_mask.webp"
     }
   },
   {
@@ -783,14 +655,10 @@
     "number": "186",
     "rarity": "Rare Ultra",
     "images": {
-      "small": {
-        "relative": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/swsh11/186/186_small.png"
-      },
-      "large": {
-        "relative": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/swsh11/186/186_large.png"
-      },
-      "foil": "/poke-holo-hosting/CardDownloader/swsh11/186/186_foil.webp",
-      "mask": "/poke-holo-hosting/CardDownloader/swsh11/186/186_mask.webp"
+      "small": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/swsh11/186/186_small.png",
+      "large": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/swsh11/186/186_large.png",
+      "foil": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/swsh11/186/186_foil.webp",
+      "mask": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/swsh11/186/186_mask.webp"
     }
   },
   {
@@ -808,14 +676,10 @@
     "number": "177",
     "rarity": "Rare Ultra",
     "images": {
-      "small": {
-        "relative": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/swsh10/177/177_small.png"
-      },
-      "large": {
-        "relative": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/swsh10/177/177_large.png"
-      },
-      "foil": "/poke-holo-hosting/CardDownloader/swsh10/177/177_foil.webp",
-      "mask": "/poke-holo-hosting/CardDownloader/swsh10/177/177_mask.webp"
+      "small": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/swsh10/177/177_small.png",
+      "large": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/swsh10/177/177_large.png",
+      "foil": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/swsh10/177/177_foil.webp",
+      "mask": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/swsh10/177/177_mask.webp"
     }
   },
   {
@@ -833,12 +697,8 @@
     "number": "SWSH180",
     "rarity": "Rare Rainbow",
     "images": {
-      "small": {
-        "relative": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/swshp/SWSH180/SWSH180_small.png"
-      },
-      "large": {
-        "relative": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/swshp/SWSH180/SWSH180_large.png"
-      }
+      "small": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/swshp/SWSH180/SWSH180_small.png",
+      "large": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/swshp/SWSH180/SWSH180_large.png"
     }
   },
   {
@@ -856,12 +716,8 @@
     "number": "SWSH182",
     "rarity": "Rare Rainbow",
     "images": {
-      "small": {
-        "relative": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/swshp/SWSH182/SWSH182_small.png"
-      },
-      "large": {
-        "relative": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/swshp/SWSH182/SWSH182_large.png"
-      }
+      "small": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/swshp/SWSH182/SWSH182_small.png",
+      "large": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/swshp/SWSH182/SWSH182_large.png"
     }
   },
   {
@@ -878,12 +734,8 @@
     "number": "SWSH184",
     "rarity": "Rare Rainbow",
     "images": {
-      "small": {
-        "relative": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/swshp/SWSH184/SWSH184_small.png"
-      },
-      "large": {
-        "relative": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/swshp/SWSH184/SWSH184_large.png"
-      }
+      "small": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/swshp/SWSH184/SWSH184_small.png",
+      "large": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/swshp/SWSH184/SWSH184_large.png"
     }
   },
   {
@@ -900,14 +752,10 @@
     "number": "29",
     "rarity": "Rare Holo VMAX",
     "images": {
-      "small": {
-        "relative": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/swsh7/29/29_small.png"
-      },
-      "large": {
-        "relative": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/swsh7/29/29_large.png"
-      },
-      "foil": "/poke-holo-hosting/CardDownloader/swsh7/29/29_foil.webp",
-      "mask": "/poke-holo-hosting/CardDownloader/swsh7/29/29_mask.webp"
+      "small": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/swsh7/29/29_small.png",
+      "large": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/swsh7/29/29_large.png",
+      "foil": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/swsh7/29/29_foil.webp",
+      "mask": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/swsh7/29/29_mask.webp"
     }
   },
   {
@@ -924,14 +772,10 @@
     "number": "51",
     "rarity": "Rare Holo VMAX",
     "images": {
-      "small": {
-        "relative": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/swsh45/51/51_small.png"
-      },
-      "large": {
-        "relative": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/swsh45/51/51_large.png"
-      },
-      "foil": "/poke-holo-hosting/CardDownloader/swsh45/51/51_foil.webp",
-      "mask": "/poke-holo-hosting/CardDownloader/swsh45/51/51_mask.webp"
+      "small": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/swsh45/51/51_small.png",
+      "large": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/swsh45/51/51_large.png",
+      "foil": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/swsh45/51/51_foil.webp",
+      "mask": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/swsh45/51/51_mask.webp"
     }
   },
   {
@@ -948,14 +792,10 @@
     "number": "29",
     "rarity": "Rare Holo VMAX",
     "images": {
-      "small": {
-        "relative": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/swsh9/29/29_small.png"
-      },
-      "large": {
-        "relative": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/swsh9/29/29_large.png"
-      },
-      "foil": "/poke-holo-hosting/CardDownloader/swsh9/29/29_foil.webp",
-      "mask": "/poke-holo-hosting/CardDownloader/swsh9/29/29_mask.webp"
+      "small": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/swsh9/29/29_small.png",
+      "large": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/swsh9/29/29_large.png",
+      "foil": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/swsh9/29/29_foil.webp",
+      "mask": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/swsh9/29/29_mask.webp"
     }
   },
   {
@@ -972,14 +812,10 @@
     "number": "270",
     "rarity": "Rare Rainbow",
     "images": {
-      "small": {
-        "relative": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/swsh8/270/270_small.png"
-      },
-      "large": {
-        "relative": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/swsh8/270/270_large.png"
-      },
-      "foil": "/poke-holo-hosting/CardDownloader/swsh8/270/270_foil.webp",
-      "mask": "/poke-holo-hosting/CardDownloader/swsh8/270/270_mask.webp"
+      "small": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/swsh8/270/270_small.png",
+      "large": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/swsh8/270/270_large.png",
+      "foil": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/swsh8/270/270_foil.webp",
+      "mask": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/swsh8/270/270_mask.webp"
     }
   },
   {
@@ -997,14 +833,10 @@
     "number": "271",
     "rarity": "Rare Rainbow",
     "images": {
-      "small": {
-        "relative": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/swsh8/271/271_small.png"
-      },
-      "large": {
-        "relative": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/swsh8/271/271_large.png"
-      },
-      "foil": "/poke-holo-hosting/CardDownloader/swsh8/271/271_foil.webp",
-      "mask": "/poke-holo-hosting/CardDownloader/swsh8/271/271_mask.webp"
+      "small": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/swsh8/271/271_small.png",
+      "large": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/swsh8/271/271_large.png",
+      "foil": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/swsh8/271/271_foil.webp",
+      "mask": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/swsh8/271/271_mask.webp"
     }
   },
   {
@@ -1022,14 +854,10 @@
     "number": "215",
     "rarity": "Rare Rainbow",
     "images": {
-      "small": {
-        "relative": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/swsh7/215/215_small.png"
-      },
-      "large": {
-        "relative": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/swsh7/215/215_large.png"
-      },
-      "foil": "/poke-holo-hosting/CardDownloader/swsh7/215/215_foil.webp",
-      "mask": "/poke-holo-hosting/CardDownloader/swsh7/215/215_mask.webp"
+      "small": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/swsh7/215/215_small.png",
+      "large": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/swsh7/215/215_large.png",
+      "foil": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/swsh7/215/215_foil.webp",
+      "mask": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/swsh7/215/215_mask.webp"
     }
   },
   {
@@ -1046,14 +874,10 @@
     "number": "31",
     "rarity": "Rare Holo VSTAR",
     "images": {
-      "small": {
-        "relative": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/pgo/31/31_small.png"
-      },
-      "large": {
-        "relative": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/pgo/31/31_large.png"
-      },
-      "foil": "/poke-holo-hosting/CardDownloader/pgo/31/31_foil.webp",
-      "mask": "/poke-holo-hosting/CardDownloader/pgo/31/31_mask.webp"
+      "small": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/pgo/31/31_small.png",
+      "large": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/pgo/31/31_large.png",
+      "foil": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/pgo/31/31_foil.webp",
+      "mask": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/pgo/31/31_mask.webp"
     }
   },
   {
@@ -1070,14 +894,10 @@
     "number": "SWSH214",
     "rarity": "Rare Holo VSTAR",
     "images": {
-      "small": {
-        "relative": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/swshp/SWSH214/SWSH214_small.png"
-      },
-      "large": {
-        "relative": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/swshp/SWSH214/SWSH214_large.png"
-      },
-      "foil": "/poke-holo-hosting/CardDownloader/swshp/SWSH214/SWSH214_foil.webp",
-      "mask": "/poke-holo-hosting/CardDownloader/swshp/SWSH214/SWSH214_mask.webp"
+      "small": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/swshp/SWSH214/SWSH214_small.png",
+      "large": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/swshp/SWSH214/SWSH214_large.png",
+      "foil": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/swshp/SWSH214/SWSH214_foil.webp",
+      "mask": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/swshp/SWSH214/SWSH214_mask.webp"
     }
   },
   {
@@ -1094,14 +914,10 @@
     "number": "18",
     "rarity": "Rare Holo VSTAR",
     "images": {
-      "small": {
-        "relative": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/swsh9/18/18_small.png"
-      },
-      "large": {
-        "relative": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/swsh9/18/18_large.png"
-      },
-      "foil": "/poke-holo-hosting/CardDownloader/swsh9/18/18_foil.webp",
-      "mask": "/poke-holo-hosting/CardDownloader/swsh9/18/18_mask.webp"
+      "small": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/swsh9/18/18_small.png",
+      "large": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/swsh9/18/18_large.png",
+      "foil": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/swsh9/18/18_foil.webp",
+      "mask": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/swsh9/18/18_mask.webp"
     }
   },
   {
@@ -1115,14 +931,10 @@
     "number": "196",
     "rarity": "Rare Ultra",
     "images": {
-      "small": {
-        "relative": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/swsh6/196/196_small.png"
-      },
-      "large": {
-        "relative": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/swsh6/196/196_large.png"
-      },
-      "foil": "/poke-holo-hosting/CardDownloader/swsh6/196/196_foil.webp",
-      "mask": "/poke-holo-hosting/CardDownloader/swsh6/196/196_mask.webp"
+      "small": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/swsh6/196/196_small.png",
+      "large": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/swsh6/196/196_large.png",
+      "foil": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/swsh6/196/196_foil.webp",
+      "mask": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/swsh6/196/196_mask.webp"
     }
   },
   {
@@ -1136,14 +948,10 @@
     "number": "167",
     "rarity": "Rare Ultra",
     "images": {
-      "small": {
-        "relative": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/swsh9/167/167_small.png"
-      },
-      "large": {
-        "relative": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/swsh9/167/167_large.png"
-      },
-      "foil": "/poke-holo-hosting/CardDownloader/swsh9/167/167_foil.webp",
-      "mask": "/poke-holo-hosting/CardDownloader/swsh9/167/167_mask.webp"
+      "small": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/swsh9/167/167_small.png",
+      "large": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/swsh9/167/167_large.png",
+      "foil": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/swsh9/167/167_foil.webp",
+      "mask": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/swsh9/167/167_mask.webp"
     }
   },
   {
@@ -1157,14 +965,10 @@
     "number": "200",
     "rarity": "Rare Ultra",
     "images": {
-      "small": {
-        "relative": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/swsh1/200/200_small.png"
-      },
-      "large": {
-        "relative": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/swsh1/200/200_large.png"
-      },
-      "foil": "/poke-holo-hosting/CardDownloader/swsh1/200/200_foil.webp",
-      "mask": "/poke-holo-hosting/CardDownloader/swsh1/200/200_mask.webp"
+      "small": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/swsh1/200/200_small.png",
+      "large": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/swsh1/200/200_large.png",
+      "foil": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/swsh1/200/200_foil.webp",
+      "mask": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/swsh1/200/200_mask.webp"
     }
   },
   {
@@ -1178,14 +982,10 @@
     "number": "TG27",
     "rarity": "Rare Ultra",
     "images": {
-      "small": {
-        "relative": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/swsh11tg/TG27/TG27_small.png"
-      },
-      "large": {
-        "relative": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/swsh11tg/TG27/TG27_large.png"
-      },
-      "foil": "/poke-holo-hosting/CardDownloader/swsh11tg/TG27/TG27_foil.webp",
-      "mask": "/poke-holo-hosting/CardDownloader/swsh11tg/TG27/TG27_mask.webp"
+      "small": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/swsh11tg/TG27/TG27_small.png",
+      "large": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/swsh11tg/TG27/TG27_large.png",
+      "foil": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/swsh11tg/TG27/TG27_foil.webp",
+      "mask": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/swsh11tg/TG27/TG27_mask.webp"
     }
   },
   {
@@ -1199,14 +999,10 @@
     "number": "TG26",
     "rarity": "Rare Ultra",
     "images": {
-      "small": {
-        "relative": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/swsh12tg/TG26/TG26_small.png"
-      },
-      "large": {
-        "relative": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/swsh12tg/TG26/TG26_large.png"
-      },
-      "foil": "/poke-holo-hosting/CardDownloader/swsh12tg/TG26/TG26_foil.webp",
-      "mask": "/poke-holo-hosting/CardDownloader/swsh12tg/TG26/TG26_mask.webp"
+      "small": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/swsh12tg/TG26/TG26_small.png",
+      "large": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/swsh12tg/TG26/TG26_large.png",
+      "foil": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/swsh12tg/TG26/TG26_foil.webp",
+      "mask": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/swsh12tg/TG26/TG26_mask.webp"
     }
   },
   {
@@ -1220,14 +1016,10 @@
     "number": "TG26",
     "rarity": "Rare Ultra",
     "images": {
-      "small": {
-        "relative": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/swsh11tg/TG26/TG26_small.png"
-      },
-      "large": {
-        "relative": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/swsh11tg/TG26/TG26_large.png"
-      },
-      "foil": "/poke-holo-hosting/CardDownloader/swsh11tg/TG26/TG26_foil.webp",
-      "mask": "/poke-holo-hosting/CardDownloader/swsh11tg/TG26/TG26_mask.webp"
+      "small": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/swsh11tg/TG26/TG26_small.png",
+      "large": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/swsh11tg/TG26/TG26_large.png",
+      "foil": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/swsh11tg/TG26/TG26_foil.webp",
+      "mask": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/swsh11tg/TG26/TG26_mask.webp"
     }
   },
   {
@@ -1244,14 +1036,10 @@
     "number": "188",
     "rarity": "Rare Rainbow",
     "images": {
-      "small": {
-        "relative": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/swsh4/188/188_small.png"
-      },
-      "large": {
-        "relative": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/swsh4/188/188_large.png"
-      },
-      "foil": "/poke-holo-hosting/CardDownloader/swsh4/188/188_foil.webp",
-      "mask": "/poke-holo-hosting/CardDownloader/swsh4/188/188_mask.webp"
+      "small": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/swsh4/188/188_small.png",
+      "large": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/swsh4/188/188_large.png",
+      "foil": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/swsh4/188/188_foil.webp",
+      "mask": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/swsh4/188/188_mask.webp"
     }
   },
   {
@@ -1268,14 +1056,10 @@
     "number": "197",
     "rarity": "Rare Rainbow",
     "images": {
-      "small": {
-        "relative": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/swsh12/197/197_small.png"
-      },
-      "large": {
-        "relative": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/swsh12/197/197_large.png"
-      },
-      "foil": "/poke-holo-hosting/CardDownloader/swsh12/197/197_foil.webp",
-      "mask": "/poke-holo-hosting/CardDownloader/swsh12/197/197_mask.webp"
+      "small": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/swsh12/197/197_small.png",
+      "large": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/swsh12/197/197_large.png",
+      "foil": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/swsh12/197/197_foil.webp",
+      "mask": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/swsh12/197/197_mask.webp"
     }
   },
   {
@@ -1289,14 +1073,10 @@
     "number": "204",
     "rarity": "Rare Rainbow",
     "images": {
-      "small": {
-        "relative": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/swsh10/204/204_small.png"
-      },
-      "large": {
-        "relative": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/swsh10/204/204_large.png"
-      },
-      "foil": "/poke-holo-hosting/CardDownloader/swsh10/204/204_foil.webp",
-      "mask": "/poke-holo-hosting/CardDownloader/swsh10/204/204_mask.webp"
+      "small": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/swsh10/204/204_small.png",
+      "large": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/swsh10/204/204_large.png",
+      "foil": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/swsh10/204/204_foil.webp",
+      "mask": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/swsh10/204/204_mask.webp"
     }
   },
   {
@@ -1314,14 +1094,10 @@
     "number": "268",
     "rarity": "Rare Rainbow",
     "images": {
-      "small": {
-        "relative": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/swsh8/268/268_small.png"
-      },
-      "large": {
-        "relative": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/swsh8/268/268_large.png"
-      },
-      "foil": "/poke-holo-hosting/CardDownloader/swsh8/268/268_foil.webp",
-      "mask": "/poke-holo-hosting/CardDownloader/swsh8/268/268_mask.webp"
+      "small": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/swsh8/268/268_small.png",
+      "large": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/swsh8/268/268_large.png",
+      "foil": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/swsh8/268/268_foil.webp",
+      "mask": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/swsh8/268/268_mask.webp"
     }
   },
   {
@@ -1338,14 +1114,10 @@
     "number": "175",
     "rarity": "Rare Rainbow",
     "images": {
-      "small": {
-        "relative": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/swsh9/175/175_small.png"
-      },
-      "large": {
-        "relative": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/swsh9/175/175_large.png"
-      },
-      "foil": "/poke-holo-hosting/CardDownloader/swsh9/175/175_foil.webp",
-      "mask": "/poke-holo-hosting/CardDownloader/swsh9/175/175_mask.webp"
+      "small": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/swsh9/175/175_small.png",
+      "large": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/swsh9/175/175_large.png",
+      "foil": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/swsh9/175/175_foil.webp",
+      "mask": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/swsh9/175/175_mask.webp"
     }
   },
   {
@@ -1359,14 +1131,10 @@
     "number": "205",
     "rarity": "Rare Rainbow",
     "images": {
-      "small": {
-        "relative": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/swsh12/205/205_small.png"
-      },
-      "large": {
-        "relative": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/swsh12/205/205_large.png"
-      },
-      "foil": "/poke-holo-hosting/CardDownloader/swsh12/205/205_foil.webp",
-      "mask": "/poke-holo-hosting/CardDownloader/swsh12/205/205_mask.webp"
+      "small": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/swsh12/205/205_small.png",
+      "large": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/swsh12/205/205_large.png",
+      "foil": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/swsh12/205/205_foil.webp",
+      "mask": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/swsh12/205/205_mask.webp"
     }
   },
   {
@@ -1380,14 +1148,10 @@
     "number": "209",
     "rarity": "Rare Secret",
     "images": {
-      "small": {
-        "relative": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/swsh2/209/209_small.png"
-      },
-      "large": {
-        "relative": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/swsh2/209/209_large.png"
-      },
-      "foil": "/poke-holo-hosting/CardDownloader/swsh2/209/209_foil.webp",
-      "mask": "/poke-holo-hosting/CardDownloader/swsh2/209/209_mask.webp"
+      "small": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/swsh2/209/209_small.png",
+      "large": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/swsh2/209/209_large.png",
+      "foil": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/swsh2/209/209_foil.webp",
+      "mask": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/swsh2/209/209_mask.webp"
     }
   },
   {
@@ -1401,14 +1165,10 @@
     "number": "186",
     "rarity": "Rare Secret",
     "images": {
-      "small": {
-        "relative": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/swsh9/186/186_small.png"
-      },
-      "large": {
-        "relative": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/swsh9/186/186_large.png"
-      },
-      "foil": "/poke-holo-hosting/CardDownloader/swsh9/186/186_foil.webp",
-      "mask": "/poke-holo-hosting/CardDownloader/swsh9/186/186_mask.webp"
+      "small": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/swsh9/186/186_small.png",
+      "large": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/swsh9/186/186_large.png",
+      "foil": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/swsh9/186/186_foil.webp",
+      "mask": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/swsh9/186/186_mask.webp"
     }
   },
   {
@@ -1422,14 +1182,10 @@
     "number": "213",
     "rarity": "Rare Secret",
     "images": {
-      "small": {
-        "relative": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/swsh10/213/213_small.png"
-      },
-      "large": {
-        "relative": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/swsh10/213/213_large.png"
-      },
-      "foil": "/poke-holo-hosting/CardDownloader/swsh10/213/213_foil.webp",
-      "mask": "/poke-holo-hosting/CardDownloader/swsh10/213/213_mask.webp"
+      "small": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/swsh10/213/213_small.png",
+      "large": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/swsh10/213/213_large.png",
+      "foil": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/swsh10/213/213_foil.webp",
+      "mask": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/swsh10/213/213_mask.webp"
     }
   },
   {
@@ -1446,14 +1202,10 @@
     "number": "280",
     "rarity": "Rare Secret",
     "images": {
-      "small": {
-        "relative": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/swsh8/280/280_small.png"
-      },
-      "large": {
-        "relative": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/swsh8/280/280_large.png"
-      },
-      "foil": "/poke-holo-hosting/CardDownloader/swsh8/280/280_foil.webp",
-      "mask": "/poke-holo-hosting/CardDownloader/swsh8/280/280_mask.webp"
+      "small": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/swsh8/280/280_small.png",
+      "large": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/swsh8/280/280_large.png",
+      "foil": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/swsh8/280/280_foil.webp",
+      "mask": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/swsh8/280/280_mask.webp"
     }
   },
   {
@@ -1470,14 +1222,10 @@
     "number": "184",
     "rarity": "Rare Secret",
     "images": {
-      "small": {
-        "relative": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/swsh9/184/184_small.png"
-      },
-      "large": {
-        "relative": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/swsh9/184/184_large.png"
-      },
-      "foil": "/poke-holo-hosting/CardDownloader/swsh9/184/184_foil.webp",
-      "mask": "/poke-holo-hosting/CardDownloader/swsh9/184/184_mask.webp"
+      "small": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/swsh9/184/184_small.png",
+      "large": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/swsh9/184/184_large.png",
+      "foil": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/swsh9/184/184_foil.webp",
+      "mask": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/swsh9/184/184_mask.webp"
     }
   },
   {
@@ -1495,14 +1243,10 @@
     "number": "TG30",
     "rarity": "Rare Secret",
     "images": {
-      "small": {
-        "relative": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/swsh11tg/TG30/TG30_small.png"
-      },
-      "large": {
-        "relative": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/swsh11tg/TG30/TG30_large.png"
-      },
-      "foil": "/poke-holo-hosting/CardDownloader/swsh11tg/TG30/TG30_foil.webp",
-      "mask": "/poke-holo-hosting/CardDownloader/swsh11tg/TG30/TG30_mask.webp"
+      "small": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/swsh11tg/TG30/TG30_small.png",
+      "large": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/swsh11tg/TG30/TG30_large.png",
+      "foil": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/swsh11tg/TG30/TG30_foil.webp",
+      "mask": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/swsh11tg/TG30/TG30_mask.webp"
     }
   },
   {
@@ -1520,14 +1264,10 @@
     "number": "TG16",
     "rarity": "Rare Holo V",
     "images": {
-      "small": {
-        "relative": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/swsh9tg/TG16/TG16_small.png"
-      },
-      "large": {
-        "relative": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/swsh9tg/TG16/TG16_large.png"
-      },
-      "foil": "/poke-holo-hosting/CardDownloader/swsh9tg/TG16/TG16_foil.webp",
-      "mask": "/poke-holo-hosting/CardDownloader/swsh9tg/TG16/TG16_mask.webp"
+      "small": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/swsh9tg/TG16/TG16_small.png",
+      "large": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/swsh9tg/TG16/TG16_large.png",
+      "foil": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/swsh9tg/TG16/TG16_foil.webp",
+      "mask": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/swsh9tg/TG16/TG16_mask.webp"
     }
   },
   {
@@ -1546,14 +1286,10 @@
     "number": "TG18",
     "rarity": "Rare Holo V",
     "images": {
-      "small": {
-        "relative": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/swsh9tg/TG18/TG18_small.png"
-      },
-      "large": {
-        "relative": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/swsh9tg/TG18/TG18_large.png"
-      },
-      "foil": "/poke-holo-hosting/CardDownloader/swsh9tg/TG18/TG18_foil.webp",
-      "mask": "/poke-holo-hosting/CardDownloader/swsh9tg/TG18/TG18_mask.webp"
+      "small": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/swsh9tg/TG18/TG18_small.png",
+      "large": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/swsh9tg/TG18/TG18_large.png",
+      "foil": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/swsh9tg/TG18/TG18_foil.webp",
+      "mask": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/swsh9tg/TG18/TG18_mask.webp"
     }
   },
   {
@@ -1571,14 +1307,10 @@
     "number": "TG16",
     "rarity": "Rare Holo V",
     "images": {
-      "small": {
-        "relative": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/swsh11tg/TG16/TG16_small.png"
-      },
-      "large": {
-        "relative": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/swsh11tg/TG16/TG16_large.png"
-      },
-      "foil": "/poke-holo-hosting/CardDownloader/swsh11tg/TG16/TG16_foil.webp",
-      "mask": "/poke-holo-hosting/CardDownloader/swsh11tg/TG16/TG16_mask.webp"
+      "small": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/swsh11tg/TG16/TG16_small.png",
+      "large": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/swsh11tg/TG16/TG16_large.png",
+      "foil": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/swsh11tg/TG16/TG16_foil.webp",
+      "mask": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/swsh11tg/TG16/TG16_mask.webp"
     }
   },
   {
@@ -1595,14 +1327,10 @@
     "number": "TG17",
     "rarity": "Rare Holo VMAX",
     "images": {
-      "small": {
-        "relative": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/swsh9tg/TG17/TG17_small.png"
-      },
-      "large": {
-        "relative": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/swsh9tg/TG17/TG17_large.png"
-      },
-      "foil": "/poke-holo-hosting/CardDownloader/swsh9tg/TG17/TG17_foil.webp",
-      "mask": "/poke-holo-hosting/CardDownloader/swsh9tg/TG17/TG17_mask.webp"
+      "small": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/swsh9tg/TG17/TG17_small.png",
+      "large": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/swsh9tg/TG17/TG17_large.png",
+      "foil": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/swsh9tg/TG17/TG17_foil.webp",
+      "mask": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/swsh9tg/TG17/TG17_mask.webp"
     }
   },
   {
@@ -1620,14 +1348,10 @@
     "number": "TG19",
     "rarity": "Rare Holo VMAX",
     "images": {
-      "small": {
-        "relative": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/swsh9tg/TG19/TG19_small.png"
-      },
-      "large": {
-        "relative": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/swsh9tg/TG19/TG19_large.png"
-      },
-      "foil": "/poke-holo-hosting/CardDownloader/swsh9tg/TG19/TG19_foil.webp",
-      "mask": "/poke-holo-hosting/CardDownloader/swsh9tg/TG19/TG19_mask.webp"
+      "small": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/swsh9tg/TG19/TG19_small.png",
+      "large": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/swsh9tg/TG19/TG19_large.png",
+      "foil": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/swsh9tg/TG19/TG19_foil.webp",
+      "mask": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/swsh9tg/TG19/TG19_mask.webp"
     }
   },
   {
@@ -1644,14 +1368,10 @@
     "number": "TG17",
     "rarity": "Rare Holo VMAX",
     "images": {
-      "small": {
-        "relative": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/swsh11tg/TG17/TG17_small.png"
-      },
-      "large": {
-        "relative": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/swsh11tg/TG17/TG17_large.png"
-      },
-      "foil": "/poke-holo-hosting/CardDownloader/swsh11tg/TG17/TG17_foil.webp",
-      "mask": "/poke-holo-hosting/CardDownloader/swsh11tg/TG17/TG17_mask.webp"
+      "small": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/swsh11tg/TG17/TG17_small.png",
+      "large": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/swsh11tg/TG17/TG17_large.png",
+      "foil": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/swsh11tg/TG17/TG17_foil.webp",
+      "mask": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/swsh11tg/TG17/TG17_mask.webp"
     }
   },
   {
@@ -1668,14 +1388,10 @@
     "number": "120",
     "rarity": "Common",
     "images": {
-      "small": {
-        "relative": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/swsh9/120/120_small.png"
-      },
-      "large": {
-        "relative": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/swsh9/120/120_large.png"
-      },
-      "foil": "/poke-holo-hosting/CardDownloader/swsh9/120/120_foil.webp",
-      "mask": "/poke-holo-hosting/CardDownloader/swsh9/120/120_mask.webp"
+      "small": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/swsh9/120/120_small.png",
+      "large": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/swsh9/120/120_large.png",
+      "foil": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/swsh9/120/120_foil.webp",
+      "mask": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/swsh9/120/120_mask.webp"
     }
   },
   {
@@ -1692,14 +1408,10 @@
     "number": "49",
     "rarity": "Common",
     "images": {
-      "small": {
-        "relative": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/swsh12/49/49_small.png"
-      },
-      "large": {
-        "relative": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/swsh12/49/49_large.png"
-      },
-      "foil": "/poke-holo-hosting/CardDownloader/swsh12/49/49_foil.webp",
-      "mask": "/poke-holo-hosting/CardDownloader/swsh12/49/49_mask.webp"
+      "small": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/swsh12/49/49_small.png",
+      "large": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/swsh12/49/49_large.png",
+      "foil": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/swsh12/49/49_foil.webp",
+      "mask": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/swsh12/49/49_mask.webp"
     }
   },
   {
@@ -1716,14 +1428,10 @@
     "number": "138",
     "rarity": "Common",
     "images": {
-      "small": {
-        "relative": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/swsh8/138/138_small.png"
-      },
-      "large": {
-        "relative": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/swsh8/138/138_large.png"
-      },
-      "foil": "/poke-holo-hosting/CardDownloader/swsh8/138/138_foil.webp",
-      "mask": "/poke-holo-hosting/CardDownloader/swsh8/138/138_mask.webp"
+      "small": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/swsh8/138/138_small.png",
+      "large": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/swsh8/138/138_large.png",
+      "foil": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/swsh8/138/138_foil.webp",
+      "mask": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/swsh8/138/138_mask.webp"
     }
   },
   {
@@ -1737,14 +1445,10 @@
     "number": "68",
     "rarity": "Uncommon",
     "images": {
-      "small": {
-        "relative": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/pgo/68/68_small.png"
-      },
-      "large": {
-        "relative": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/pgo/68/68_large.png"
-      },
-      "foil": "/poke-holo-hosting/CardDownloader/pgo/68/68_foil.webp",
-      "mask": "/poke-holo-hosting/CardDownloader/pgo/68/68_mask.webp"
+      "small": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/pgo/68/68_small.png",
+      "large": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/pgo/68/68_large.png",
+      "foil": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/pgo/68/68_foil.webp",
+      "mask": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/pgo/68/68_mask.webp"
     }
   },
   {
@@ -1758,14 +1462,10 @@
     "number": "173",
     "rarity": "Uncommon",
     "images": {
-      "small": {
-        "relative": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/swsh1/173/173_small.png"
-      },
-      "large": {
-        "relative": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/swsh1/173/173_large.png"
-      },
-      "foil": "/poke-holo-hosting/CardDownloader/swsh1/173/173_foil.webp",
-      "mask": "/poke-holo-hosting/CardDownloader/swsh1/173/173_mask.webp"
+      "small": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/swsh1/173/173_small.png",
+      "large": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/swsh1/173/173_large.png",
+      "foil": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/swsh1/173/173_foil.webp",
+      "mask": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/swsh1/173/173_mask.webp"
     }
   },
   {
@@ -1779,14 +1479,10 @@
     "number": "150",
     "rarity": "Uncommon",
     "images": {
-      "small": {
-        "relative": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/swsh9/150/150_small.png"
-      },
-      "large": {
-        "relative": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/swsh9/150/150_large.png"
-      },
-      "foil": "/poke-holo-hosting/CardDownloader/swsh9/150/150_foil.webp",
-      "mask": "/poke-holo-hosting/CardDownloader/swsh9/150/150_mask.webp"
+      "small": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/swsh9/150/150_small.png",
+      "large": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/swsh9/150/150_large.png",
+      "foil": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/swsh9/150/150_foil.webp",
+      "mask": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/swsh9/150/150_mask.webp"
     }
   },
   {
@@ -1803,14 +1499,10 @@
     "number": "9",
     "rarity": "Amazing Rare",
     "images": {
-      "small": {
-        "relative": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/swsh4/9/9_small.png"
-      },
-      "large": {
-        "relative": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/swsh4/9/9_large.png"
-      },
-      "foil": "/poke-holo-hosting/CardDownloader/swsh4/9/9_foil.webp",
-      "mask": "/poke-holo-hosting/CardDownloader/swsh4/9/9_mask.webp"
+      "small": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/swsh4/9/9_small.png",
+      "large": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/swsh4/9/9_large.png",
+      "foil": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/swsh4/9/9_foil.webp",
+      "mask": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/swsh4/9/9_mask.webp"
     }
   },
   {
@@ -1827,14 +1519,10 @@
     "number": "50",
     "rarity": "Amazing Rare",
     "images": {
-      "small": {
-        "relative": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/swsh4/50/50_small.png"
-      },
-      "large": {
-        "relative": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/swsh4/50/50_large.png"
-      },
-      "foil": "/poke-holo-hosting/CardDownloader/swsh4/50/50_foil.webp",
-      "mask": "/poke-holo-hosting/CardDownloader/swsh4/50/50_mask.webp"
+      "small": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/swsh4/50/50_small.png",
+      "large": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/swsh4/50/50_large.png",
+      "foil": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/swsh4/50/50_foil.webp",
+      "mask": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/swsh4/50/50_mask.webp"
     }
   },
   {
@@ -1851,14 +1539,10 @@
     "number": "82",
     "rarity": "Amazing Rare",
     "images": {
-      "small": {
-        "relative": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/swsh4/82/82_small.png"
-      },
-      "large": {
-        "relative": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/swsh4/82/82_large.png"
-      },
-      "foil": "/poke-holo-hosting/CardDownloader/swsh4/82/82_foil.webp",
-      "mask": "/poke-holo-hosting/CardDownloader/swsh4/82/82_mask.webp"
+      "small": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/swsh4/82/82_small.png",
+      "large": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/swsh4/82/82_large.png",
+      "foil": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/swsh4/82/82_foil.webp",
+      "mask": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/swsh4/82/82_mask.webp"
     }
   },
   {
@@ -1875,14 +1559,10 @@
     "number": "102",
     "rarity": "Amazing Rare",
     "images": {
-      "small": {
-        "relative": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/swsh4/102/102_small.png"
-      },
-      "large": {
-        "relative": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/swsh4/102/102_large.png"
-      },
-      "foil": "/poke-holo-hosting/CardDownloader/swsh4/102/102_foil.webp",
-      "mask": "/poke-holo-hosting/CardDownloader/swsh4/102/102_mask.webp"
+      "small": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/swsh4/102/102_small.png",
+      "large": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/swsh4/102/102_large.png",
+      "foil": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/swsh4/102/102_foil.webp",
+      "mask": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/swsh4/102/102_mask.webp"
     }
   },
   {
@@ -1899,14 +1579,10 @@
     "number": "119",
     "rarity": "Amazing Rare",
     "images": {
-      "small": {
-        "relative": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/swsh4/119/119_small.png"
-      },
-      "large": {
-        "relative": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/swsh4/119/119_large.png"
-      },
-      "foil": "/poke-holo-hosting/CardDownloader/swsh4/119/119_foil.webp",
-      "mask": "/poke-holo-hosting/CardDownloader/swsh4/119/119_mask.webp"
+      "small": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/swsh4/119/119_small.png",
+      "large": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/swsh4/119/119_large.png",
+      "foil": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/swsh4/119/119_foil.webp",
+      "mask": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/swsh4/119/119_mask.webp"
     }
   },
   {
@@ -1923,14 +1599,10 @@
     "number": "138",
     "rarity": "Amazing Rare",
     "images": {
-      "small": {
-        "relative": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/swsh4/138/138_small.png"
-      },
-      "large": {
-        "relative": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/swsh4/138/138_large.png"
-      },
-      "foil": "/poke-holo-hosting/CardDownloader/swsh4/138/138_foil.webp",
-      "mask": "/poke-holo-hosting/CardDownloader/swsh4/138/138_mask.webp"
+      "small": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/swsh4/138/138_small.png",
+      "large": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/swsh4/138/138_large.png",
+      "foil": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/swsh4/138/138_foil.webp",
+      "mask": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/swsh4/138/138_mask.webp"
     }
   },
   {
@@ -1947,14 +1619,10 @@
     "number": "17",
     "rarity": "Amazing Rare",
     "images": {
-      "small": {
-        "relative": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/swsh45/17/17_small.png"
-      },
-      "large": {
-        "relative": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/swsh45/17/17_large.png"
-      },
-      "foil": "/poke-holo-hosting/CardDownloader/swsh45/17/17_foil.webp",
-      "mask": "/poke-holo-hosting/CardDownloader/swsh45/17/17_mask.webp"
+      "small": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/swsh45/17/17_small.png",
+      "large": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/swsh45/17/17_large.png",
+      "foil": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/swsh45/17/17_foil.webp",
+      "mask": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/swsh45/17/17_mask.webp"
     }
   },
   {
@@ -1971,14 +1639,10 @@
     "number": "21",
     "rarity": "Amazing Rare",
     "images": {
-      "small": {
-        "relative": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/swsh45/21/21_small.png"
-      },
-      "large": {
-        "relative": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/swsh45/21/21_large.png"
-      },
-      "foil": "/poke-holo-hosting/CardDownloader/swsh45/21/21_foil.webp",
-      "mask": "/poke-holo-hosting/CardDownloader/swsh45/21/21_mask.webp"
+      "small": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/swsh45/21/21_small.png",
+      "large": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/swsh45/21/21_large.png",
+      "foil": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/swsh45/21/21_foil.webp",
+      "mask": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/swsh45/21/21_mask.webp"
     }
   },
   {
@@ -1995,14 +1659,10 @@
     "number": "46",
     "rarity": "Amazing Rare",
     "images": {
-      "small": {
-        "relative": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/swsh45/46/46_small.png"
-      },
-      "large": {
-        "relative": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/swsh45/46/46_large.png"
-      },
-      "foil": "/poke-holo-hosting/CardDownloader/swsh45/46/46_foil.webp",
-      "mask": "/poke-holo-hosting/CardDownloader/swsh45/46/46_mask.webp"
+      "small": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/swsh45/46/46_small.png",
+      "large": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/swsh45/46/46_large.png",
+      "foil": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/swsh45/46/46_foil.webp",
+      "mask": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/swsh45/46/46_mask.webp"
     }
   },
   {
@@ -2019,14 +1679,10 @@
     "number": "SV093",
     "rarity": "Rare Shiny",
     "images": {
-      "small": {
-        "relative": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/swsh45sv/SV093/SV093_small.png"
-      },
-      "large": {
-        "relative": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/swsh45sv/SV093/SV093_large.png"
-      },
-      "foil": "/poke-holo-hosting/CardDownloader/swsh45sv/SV093/SV093_foil.webp",
-      "mask": "/poke-holo-hosting/CardDownloader/swsh45sv/SV093/SV093_mask.webp"
+      "small": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/swsh45sv/SV093/SV093_small.png",
+      "large": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/swsh45sv/SV093/SV093_large.png",
+      "foil": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/swsh45sv/SV093/SV093_foil.webp",
+      "mask": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/swsh45sv/SV093/SV093_mask.webp"
     }
   },
   {
@@ -2043,14 +1699,10 @@
     "number": "SV094",
     "rarity": "Rare Shiny",
     "images": {
-      "small": {
-        "relative": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/swsh45sv/SV094/SV094_small.png"
-      },
-      "large": {
-        "relative": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/swsh45sv/SV094/SV094_large.png"
-      },
-      "foil": "/poke-holo-hosting/CardDownloader/swsh45sv/SV094/SV094_foil.webp",
-      "mask": "/poke-holo-hosting/CardDownloader/swsh45sv/SV094/SV094_mask.webp"
+      "small": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/swsh45sv/SV094/SV094_small.png",
+      "large": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/swsh45sv/SV094/SV094_large.png",
+      "foil": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/swsh45sv/SV094/SV094_foil.webp",
+      "mask": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/swsh45sv/SV094/SV094_mask.webp"
     }
   },
   {
@@ -2068,14 +1720,10 @@
     "number": "SV110",
     "rarity": "Rare Holo V",
     "images": {
-      "small": {
-        "relative": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/swsh45sv/SV110/SV110_small.png"
-      },
-      "large": {
-        "relative": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/swsh45sv/SV110/SV110_large.png"
-      },
-      "foil": "/poke-holo-hosting/CardDownloader/swsh45sv/SV110/SV110_foil.webp",
-      "mask": "/poke-holo-hosting/CardDownloader/swsh45sv/SV110/SV110_mask.webp"
+      "small": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/swsh45sv/SV110/SV110_small.png",
+      "large": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/swsh45sv/SV110/SV110_large.png",
+      "foil": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/swsh45sv/SV110/SV110_foil.webp",
+      "mask": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/swsh45sv/SV110/SV110_mask.webp"
     }
   },
   {
@@ -2092,14 +1740,10 @@
     "number": "SV023",
     "rarity": "Rare Shiny",
     "images": {
-      "small": {
-        "relative": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/swsh45sv/SV023/SV023_small.png"
-      },
-      "large": {
-        "relative": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/swsh45sv/SV023/SV023_large.png"
-      },
-      "foil": "/poke-holo-hosting/CardDownloader/swsh45sv/SV023/SV023_foil.webp",
-      "mask": "/poke-holo-hosting/CardDownloader/swsh45sv/SV023/SV023_mask.webp"
+      "small": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/swsh45sv/SV023/SV023_small.png",
+      "large": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/swsh45sv/SV023/SV023_large.png",
+      "foil": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/swsh45sv/SV023/SV023_foil.webp",
+      "mask": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/swsh45sv/SV023/SV023_mask.webp"
     }
   },
   {
@@ -2116,14 +1760,10 @@
     "number": "SV076",
     "rarity": "Rare Shiny",
     "images": {
-      "small": {
-        "relative": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/swsh45sv/SV076/SV076_small.png"
-      },
-      "large": {
-        "relative": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/swsh45sv/SV076/SV076_large.png"
-      },
-      "foil": "/poke-holo-hosting/CardDownloader/swsh45sv/SV076/SV076_foil.webp",
-      "mask": "/poke-holo-hosting/CardDownloader/swsh45sv/SV076/SV076_mask.webp"
+      "small": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/swsh45sv/SV076/SV076_small.png",
+      "large": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/swsh45sv/SV076/SV076_large.png",
+      "foil": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/swsh45sv/SV076/SV076_foil.webp",
+      "mask": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/swsh45sv/SV076/SV076_mask.webp"
     }
   },
   {
@@ -2140,14 +1780,10 @@
     "number": "SV107",
     "rarity": "Rare Holo VMAX",
     "images": {
-      "small": {
-        "relative": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/swsh45sv/SV107/SV107_small.png"
-      },
-      "large": {
-        "relative": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/swsh45sv/SV107/SV107_large.png"
-      },
-      "foil": "/poke-holo-hosting/CardDownloader/swsh45sv/SV107/SV107_foil.webp",
-      "mask": "/poke-holo-hosting/CardDownloader/swsh45sv/SV107/SV107_mask.webp"
+      "small": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/swsh45sv/SV107/SV107_small.png",
+      "large": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/swsh45sv/SV107/SV107_large.png",
+      "foil": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/swsh45sv/SV107/SV107_foil.webp",
+      "mask": "https://pommdau.github.io/poke-holo-hosting/CardDownloader/swsh45sv/SV107/SV107_mask.webp"
     }
   }
 ]
